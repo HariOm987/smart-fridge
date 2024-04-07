@@ -20,6 +20,7 @@
 
 6. Below is attached Chat with Whatsapp Bot 
 
-![image](https://github.com/HariOm987/smart-fridge/assets/103589784/1dee3a7a-c0dc-4c9c-9cb8-9081d44befbd)
+![image](https://github.com/HariOm987/smart-fridge/assets/103589784/310598b6-7c2a-41c9-b09e-c60536140b43)
+
 
 
